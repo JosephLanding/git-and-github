@@ -3,14 +3,23 @@ Answer the following questions:
 
 1. What is your favorite local restaurant?
 
+My favorite local restaurant is Denny’s.
+
 
 2. Name the last good book you read (title, author?).
+
+Last good book I read was 1984 by George Orwell.
 
 
 3. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
+To Pimp a Butterfly, Overly Dedicated and Good Kid MAAD City by Kendrick Lamar.
 
 4. Which text/code editor did you decide to use?
 
+I used Atom.
+
 
 5. If you were to build a web site for fun, what would it be about?
+
+The ultimate Zombie Apocalypse survival website. With quizzes, interactive survival mini games, detailed instructions on surviving the wasteland, zombie anatomy and links to purchase only the best Z-Day equipment.
